@@ -1,14 +1,18 @@
 .App {
-  text-align: center;
-  
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 body {
-  background-color: #202020;
+	background-color: #202020;
 }
 h1 {
-  color: #FFFFFF;
+	color: #FFFFFF;
+	text-align: center;
 }
 
 p {
-  color: #FFFFFF;
+	color: #FFFFFF;
+	text-align: center;
 }
